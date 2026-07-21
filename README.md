@@ -1,15 +1,13 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0080,50:7928ca,100:2af598&height=180&section=header"/>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/sayali-koli">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Your+Name+%F0%9F%91%8B;AI+%2F+ML+Enthusiast;Building+cool+things+with+code;Always+learning,+always+building&font=Fira%20Code&center=true&width=600&height=50&color=ff0080&size=28&pause=1000"/>
 </a>
 
 <p>
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=7928ca"/>
+  <img src="https://img.shields.io/github/followers/sayali-koli?label=Followers&style=for-the-badge&color=7928ca"/>
 </p>
-
 </div>
 
 <br>
@@ -46,12 +44,11 @@ fun_fact: "I debug better with coffee ☕"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayali-koli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayali-koli&layout=compact&theme=radical&hide_border=true" width="40%"/>
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=sayali-koli&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 <br>
@@ -62,7 +59,7 @@ fun_fact: "I debug better with coffee ☕"
 <tr>
 <td width="50%">
 
-### 💻 [Project One](https://github.com/yourusername/project-one)
+### 💻 [Project One](https://github.com/sayali-koli/project-one)
 One-line description of what this project does and why it's cool.
 
 `Python` `Flask` `API`
@@ -70,7 +67,7 @@ One-line description of what this project does and why it's cool.
 </td>
 <td width="50%">
 
-### 🎨 [Project Two](https://github.com/yourusername/project-two)
+### 🎨 [Project Two](https://github.com/sayali-koli/project-two)
 One-line description of what this project does and why it's cool.
 
 `React` `Tailwind` `Firebase`
@@ -80,7 +77,7 @@ One-line description of what this project does and why it's cool.
 <tr>
 <td width="50%">
 
-### 📱 [Project Three](https://github.com/yourusername/project-three)
+### 📱 [Project Three](https://github.com/sayali-koli/project-three)
 One-line description of what this project does and why it's cool.
 
 `JavaScript` `Node.js` `MongoDB`
@@ -88,7 +85,7 @@ One-line description of what this project does and why it's cool.
 </td>
 <td width="50%">
 
-### 🤖 [Project Four](https://github.com/yourusername/project-four)
+### 🤖 [Project Four](https://github.com/sayali-koli/project-four)
 One-line description of what this project does and why it's cool.
 
 `Machine Learning` `Scikit-learn` `Pandas`
@@ -102,7 +99,7 @@ One-line description of what this project does and why it's cool.
 ## 🏙️ My Contribution Skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/sayali-koli/sayali-koli/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
 
 <br>
