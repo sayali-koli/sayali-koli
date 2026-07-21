@@ -99,7 +99,7 @@ One-line description of what this project does and why it's cool.
 ## 🏙️ My Contribution Skyline
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sayali-koli/sayali-koli/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
+  <img src="https://raw.githubusercontent.com/sayali-koli/sayali-koli/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
 </p>
 
 <br>
