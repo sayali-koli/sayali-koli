@@ -88,6 +88,16 @@ const sayali = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayali-koli&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" />
 </div>
 
+### 👾 Pac-Man Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sayali-koli/sayali-koli/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sayali-koli/sayali-koli/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sayali-koli/sayali-koli/output/pacman-contribution-graph.svg">
+</picture>
+</div>
+
 <br/>
 
 ## 🔗 Connect With Me
