@@ -1,115 +1,108 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff0080,50:7928ca,100:2af598&height=180&section=header"/>
 
-<a href="https://github.com/sayali-koli">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Your+Name+%F0%9F%91%8B;AI+%2F+ML+Enthusiast;Building+cool+things+with+code;Always+learning,+always+building&font=Fira%20Code&center=true&width=600&height=50&color=ff0080&size=28&pause=1000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Sayali%20Koli&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Engineer%20%7C%20BE%20Robotics%20Student&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Robotics+Engineer;Python+%7C+ROS2+Jazzy+%7C+ML+%2F+DL;Building+with+Computer+Vision+%26+FastAPI;Docker+%2B+Kubernetes+%2B+Git" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://img.shields.io/github/followers/sayali-koli?label=Followers&style=for-the-badge&color=7928ca"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sayali-koli&label=Profile%20Views&color=7dd3fc&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/sayali-koli?label=Followers&style=flat&color=7dd3fc" alt="followers"/>
+
 </div>
 
-<br>
+<br/>
 
-## 🌸 About Me
+## 🤖 Who I Am
 
-```yaml
-name: "Your Name"
-role: "Your Title (e.g. Data Science Student)"
-currently_learning: ["Machine Learning", "Web Development", "Cloud Computing"]
-interests: ["Building side projects", "Open source", "UI/UX design"]
-fun_fact: "I debug better with coffee ☕"
+```ts
+const sayali = {
+  title: "AI Engineer | BE Robotics Student",
+  stack: [
+    "Python",
+    "ROS2 Jazzy",
+    "Machine Learning",
+    "Deep Learning",
+    "Computer Vision",
+    "FastAPI",
+    "Docker",
+    "Kubernetes",
+    "Git",
+    "GitHub"
+  ],
+  launchedProjects: "Coming soon 🚧",
+  certifications: [],
+  status: "Learning, building, and experimenting with AI + Robotics",
+  openTo: "Collaboration on AI & Robotics projects"
+};
 ```
 
-- 🎓 Your degree / field of study
-- 💡 Passionate about turning ideas into working products
-- 🌱 Currently exploring: *(add what you're learning)*
-- 📫 Reach me: **your.email@example.com**
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
-<br>
+<br/>
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,react,nodejs" height="45"/>
-</p>
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,figma,git,github,vscode" height="45"/>
-</p>
+**Languages**
 
-<br>
+<img src="https://skillicons.dev/icons?i=python" />
+
+**AI / Machine Learning / Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+**Robotics**
+
+<img src="https://img.shields.io/badge/ROS2-Jazzy-7dd3fc?style=for-the-badge&logo=ros&logoColor=white" />
+
+**Backend / Infra**
+
+<img src="https://skillicons.dev/icons?i=fastapi,docker,kubernetes" />
+
+**Dev Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github" />
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayali-koli&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayali-koli&layout=compact&theme=radical&hide_border=true" width="40%"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sayali-koli&theme=radical&hide_border=true" width="60%"/>
-</p>
+<div align="center">
 
-<br>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sayali-koli&show_icons=true&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&icon_color=7dd3fc" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayali-koli&layout=compact&theme=nord&hide_border=true&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" />
 
-## 🚀 Featured Projects
+<img src="https://streak-stats.demolab.com/?user=sayali-koli&theme=nord&hide_border=true&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" />
 
-<table>
-<tr>
-<td width="50%">
+</div>
 
-### 💻 [Project One](https://github.com/sayali-koli/project-one)
-One-line description of what this project does and why it's cool.
+### 🏆 Trophies
 
-`Python` `Flask` `API`
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sayali-koli&no-frame=true&no-bg=true&theme=nord&column=7" />
+</div>
 
-</td>
-<td width="50%">
+### 📈 Contribution Activity
 
-### 🎨 [Project Two](https://github.com/sayali-koli/project-two)
-One-line description of what this project does and why it's cool.
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sayali-koli&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" />
+</div>
 
-`React` `Tailwind` `Firebase`
+<br/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+## 🔗 Connect With Me
 
-### 📱 [Project Three](https://github.com/sayali-koli/project-three)
-One-line description of what this project does and why it's cool.
+<div align="center">
 
-`JavaScript` `Node.js` `MongoDB`
+<a href="https://www.linkedin.com/in/sayali-koli-a37a6b2b8/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:kolisayali22@gmail.com">
+  <img src="https://img.shields.io/badge/Email-7dd3fc?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-</td>
-<td width="50%">
+</div>
 
-### 🤖 [Project Four](https://github.com/sayali-koli/project-four)
-One-line description of what this project does and why it's cool.
+<br/>
 
-`Machine Learning` `Scikit-learn` `Pandas`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🏙️ My Contribution Skyline
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sayali-koli/sayali-koli/main/profile-3d-contrib/profile-night-rainbow.svg" width="90%"/>
-</p>
-
-<br>
-
-## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2af598,50:7928ca,100:ff0080&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
